@@ -1,0 +1,63 @@
+
+[1] EN: You cannot graduate until you complete all your required courses.
+    BASE: Wuntumi nnya wo diploma kosi sɛ wubewie w'adesua no nyinaa.
+    FT  : Wuntumi nnya diploma kɔsi sɛ wuwie sukuu ahorow a ɛho hia no nyinaa.
+    finetuned is better but "sukuu ahorow" should be "adesua ahorow" and diploma is not equal to graduate
+
+[2] EN: The registration deadline is at the end of the second week.
+    BASE: Adesua nnawɔtwe a ɛto so abien no awiei na ɛho befi ase.
+    FT  : Adesua nnawɔtwe a ɛto so mmienu no awie mu na wɔrekyerɛw wɔn din.
+    finetuned is better but it doesnt talk about the deadline
+
+[5] EN: You must pay your fees before you can register for courses.
+    BASE: Ɛsɛ sɛ wotua wo ka ansa na woatumi akɔ sukuu.
+    FT  : Ɛsɛ sɛ wutua wo ho ka ansa na woatumi akyerɛw wo din akɔ adesua ahorow no bi mu.
+    it is supposed to be :Ɛsɛ sɛ wutua wo sukuu ho ka ansa na woatumi akyerɛw wo din ama adesua ahorow no bi mu.
+
+[6] EN: Some courses are only offered in the second semester.
+    BASE: Wɔyɛ sukuu ahorow bi wɔ simma a ɛto so abien no mu nkutoo.
+    FT  : Wɔde adesua ahorow bi ma wɔ semester a ɛto so mmienu no mu nkutoo.
+    lets change offered to taught.
+
+[7] EN: An elective is a course that you choose yourself.
+    BASE: Fa nwa awie Fa nwa awie Ɛkpɔnedeɛ ne le debie mɔɔ ɛkulo kɛ ɛyɛ la.
+    FT  : Elective yɛ adesua a wo ankasa paw.
+
+[8] EN: A core course is compulsory for every student in the program.
+    BASE: Ɛsɛ sɛ sukuuni biara nya ntetee titiriw bi.
+    FT  : Ɛsɛ sɛ osuani biara yɛ adesua titiriw bi.
+
+[9] EN: You can repeat a course to improve your grade.
+    BASE: Wubetumi ayɛ adesua no mpɛn pii na ama w'aduasua ayɛ yiye.
+    FT  : Wubetumi asusuw adesua no ho bio na ama woadu grade.
+    base is better
+
+[12] EN: You must attend lectures regularly to pass the course.
+    BASE: Ɛsɛ sɛ wokɔ adesua no daa ansa na woatumi akɔ sukuu no bi.
+    FT  : Ɛsɛ sɛ wokɔ adesuade ahorow no daa ansa na woatumi akɔ adesuade no mu.
+    make it: if you miss 25% of classes for the semester for a course you may not be allowed to write the exam
+
+[14] EN: A three-credit course meets for three hours every week.
+    BASE: Adesua a wɔyɛ no nnɔnhwerew abiɛsa dapɛn biara.
+    FT  : Adesua a ɛka credit mmiɛnsa no kɔ so nnɔnhwerew abiɛsa dapɛn biara.
+
+[16] EN: First-year students must attend orientation before registration.
+    BASE: Ɛsɛ sɛ sukuufo a wɔyɛ afe a edi kan no nya ntetee ansa na wɔrekyerɛw wɔn ho.
+    FT  : Ɛsɛ sɛ osuani a ɔda afe a edi kan no kɔ animkyerɛ ansa na wakyerɛw ne din.
+
+[17] EN: Your final grade depends on your coursework and examination.
+    BASE: W'aba awiei no gyina w'adwuma ne wo sɔhwɛ so.
+    FT  : Wo adesua a etwa to no gyina wo adesua no dwumadi ne sɔhwɛ no so.
+
+[18] EN: You need at least a C grade to pass this course.
+    BASE: Ehia sɛ wunya mfitiase a edi kan ansa na woatumi akɔ sukuu yi mu.
+    FT  : Sɛ wubetumi adi adesua yi a, ebedu baabi no, ehia sɛ wotwa grade C.
+
+[19] EN: Speak to your advisor if you want to change your program.
+    BASE: Sɛ wopɛ sɛ wosesa wo nhyehyɛe a, ka ho asɛm kyerɛ w'afotufo.
+    FT  : Sɛ wopɛ sɛ wosesa wo nhyehyɛe a, kasa kyerɛ wo fotufo.
+
+[20] EN: The semester begins in August and ends in December.
+    BASE: Adesua no fi ase August mu na esi ase December mu.
+    FT  : Semester no fi ase wɔ August kosi December mu.
+    months should be in twi
